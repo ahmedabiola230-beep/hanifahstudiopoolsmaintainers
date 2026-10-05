@@ -64,4 +64,4 @@ server.log
 /upload/
 /download/
 /worklog.md
-/dev.pid
+/dev.pid/tool-results/
